@@ -1,6 +1,6 @@
-# the npm website public issue tracker
+# The MediaJockey issue tracker
 
-This is the community space for the npm website, http://www.npmjs.com. It
+This is the community space for MediaJockey website, http://mrdiajockeybd.wordpress.com. It
 will be used to announce major changes, forecast what we are working on, and to
 field issues with the website.
 
